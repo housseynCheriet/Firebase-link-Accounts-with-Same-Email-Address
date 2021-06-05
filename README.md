@@ -1,2 +1,32 @@
-# Link Accounts with Same Email Address
- When you create a Google or facebook account, you automatically get a Gmail address and email with password '12345678' and facebook account with smae email. But if you’d rather use another email address to sign in, you can link a non-Gmail email address to the account and use it to sign in, recover your password, get notifications, and more
+# DEMO
+
+[https://vuejs-account-linking-with-firebase-ui-auth.vercel.app](https://vuejs-account-linking-with-firebase-ui-auth.vercel.app)
+
+[https://www.youtube.com/watch?v=nw8gshODq20](https://www.youtube.com/watch?v=nw8gshODq20)
+
+
+
+# account-linking
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
