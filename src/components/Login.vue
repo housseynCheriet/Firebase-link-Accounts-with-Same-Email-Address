@@ -4,7 +4,7 @@
     font-weight: 700;
     background: yellowgreen;
     padding: 20px;
-">Firebase link accounts with different or same email address </h1>
+">Firebase link accounts with same email address </h1>
   <div v-if="!auth">
     
   <div id="firebaseui-container"></div>
